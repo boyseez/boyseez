@@ -1,10 +1,19 @@
 # Hey, I'm Giuseppe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a software engineer in  Italy 🇮🇹. I love coding👨‍💻, logic games🧩, boxing🥊 and Rap music🎶
 
+
+## 🫶 Quote 
+ ```
+LESS IS MORE 
+ ```
+
+
+
+
+
 ## 🔥 Streak stats
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyseez)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -14,7 +23,7 @@ I'm a software engineer in  Italy 🇮🇹. I love coding👨‍💻, logic game
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boyseez&date_format=j%20M%5B%20Y%5D&stroke=DD7C0C&border=DD7C0C)](https://git.io/streak-stats)
 
 
-
+## ⚡ Technologies
 
 Here are some ideas to get you started:
 
