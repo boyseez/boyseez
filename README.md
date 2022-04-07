@@ -1,17 +1,10 @@
 # Hey, I'm Giuseppe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a software engineer in  Italy 🇮🇹. I love coding, logic games, boxing and Rap music
+I'm a software engineer in  Italy 🇮🇹. I love coding👨‍💻, logic games🧩, boxing🥊 and Rap music🎶
 
 ## 🔥 Streak stats
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyseez)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
 
 
 
