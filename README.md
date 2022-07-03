@@ -1,6 +1,8 @@
-# Hey, I'm Giuseppe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, I'm Giuseppe :wave:
 I'm a software engineer in  Italy 🇮🇹. I love coding👨‍💻, logic games🧩, boxing🥊 and Rap music🎶
 
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/boyseez?label=Follow%20Me&style=social)](https://github.com/boyseez)
+<br>
 
 ## 🫶 Quote 
  ```
